@@ -1,9 +1,9 @@
 # my-portfolio
-Create portfolio using using HTML5, CSS & Javascript .
+
 In this project I creatE a single page Portfolio website using HTML5, CSS & Javascript having the following sections:
 
-About Me
-Skills
-Projects
-Recommendations
+1.About Me
+2.Skills
+3.Projects
+4.Recommendations
 
